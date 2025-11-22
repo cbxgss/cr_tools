@@ -1,0 +1,1 @@
+pandoc test/doc/bib.bib --citeproc --csl=cr_tools/doc/elsevier-harvard.csl -o outputs/references.html
